@@ -1,7 +1,7 @@
 # 🌸 Sandalwood Symphony by JAM
 ### A Contemporary Management Practices Project
 
-This repository contains a project developed by **Anjum Sultana**, **Jaylene Wade**, **Talari Mercy Susanna**, and **Julia Reddy Murikinati** as part of **BSAD 50800 – Contemporary Management Practices (Fall 2023)** under the guidance of **Instructor Johannah Simon**.
+This repository contains a project developed by **Anjum Sultana**, **Jaylene Wade**, **Talari Mercy Susanna**, and **Julia Reddy Murikinati** under the guidance of **Instructor Johannah Simon**.
 
 ---
 
@@ -76,8 +76,8 @@ Encourages employees through:
 
 ## 🧑‍💻 Author
 **Julia Reddy Murikinati**  
-📧 [Your Email Address]  
-🌐 [LinkedIn or Portfolio link if you want]  
+📧 juliareddy789@gmail.com  
+
 
 ---
 
